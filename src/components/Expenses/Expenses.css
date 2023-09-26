@@ -5,3 +5,9 @@
     width: 50rem;
     max-width: 95%;
   }
+  h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items:center ;
+  }
